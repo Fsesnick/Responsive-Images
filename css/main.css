@@ -57,7 +57,7 @@ PROFILE LAYOUT
 }
 
 .banner-image {
-  min-width: 100%;
+  max-width: 50%;
 }
 
 .profile-image {
